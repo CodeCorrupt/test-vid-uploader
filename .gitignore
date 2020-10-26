@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__
+venv
+
+config/client_secrets.json
+config/config.yaml
+config/yt-oauth2.json
+
+videos/*
+!videos/.gitkeep
